@@ -12,12 +12,12 @@
 }
 
 .header {
-    background: tomato;
+    background: rgb(9, 38, 84);
     height: 120px;
 }
 
 .footer {
-    background: lightgreen;
+    background: rgb(207, 181, 12);
     height: 80px;
 }
 
