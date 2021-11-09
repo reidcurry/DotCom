@@ -12,29 +12,29 @@
 }
 
 .header {
-    background: rgb(9, 38, 84);
+    background: rgb(0, 128, 198);
     height: 120px;
 }
 
 .footer {
-    background: rgb(207, 181, 12);
+    background: rgb(0, 128, 198);
     height: 80px;
 }
 
 .main {
     text-align: left;
-    background: deepskyblue;
+    background: rgb(255, 255, 255);
     height: 300px;
     font-size: 24px;
 }
 
 .aside1 {
-    background: gold;
+    background: rgb(255, 194, 14);
 
 }
 
 .aside2 {
-    background: hotpink;
+    background: rgb(255, 194, 14);
 }
 @media all and (min-width: 800px){
     .main{
